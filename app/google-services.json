@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "339645681304",
+    "firebase_url": "https://samples-51c8e-default-rtdb.firebaseio.com",
+    "project_id": "samples-51c8e",
+    "storage_bucket": "samples-51c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339645681304:android:e465a9aef647ada2754aed",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qtSGqmbZODe2htluSzDkNX7R3tI9G_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339645681304:android:8eca7fa2b6c0850b754aed",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qtSGqmbZODe2htluSzDkNX7R3tI9G_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
